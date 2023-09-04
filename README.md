@@ -3,13 +3,13 @@ Evaluation of POCP VS AAI: This is a R script to parse all the results into summ
 
 ## Dependencies
 The script has been tested in R v.4.2.2. It has the following dependendencies: 
-  dplyr
-  tidyr
-  vioplot
-  ggplot2
-  stringr
-  car
-  xlsx
+  * dplyr
+  * tidyr
+  * vioplot
+  * ggplot2
+  * stringr
+  * car
+  * xlsx
 
 ## How to run it
 Download the repository. Open the script "AAI VS POCP.R" with R or Rstudio and change the "path_POCP_AAI" in the second line to the folder with the contents of the repository (it should contain a folder called pocp and aai with all the output files from the comparisons) 

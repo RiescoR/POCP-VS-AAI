@@ -1,5 +1,5 @@
 # POCP-VS-AAI
-Evaluation of POCP VS AAI: This is a R script to parse all the results into summary tables, analyze them and create some plots. 
+Evaluation of POCP VS AAI: This is a R script to parse all the results from EzAAI and Bio-PI POCP marix into summary tables, analyze them and create some plots. 
 
 ## Dependencies
 The script has been tested in R v.4.2.2. It has the following dependendencies: 

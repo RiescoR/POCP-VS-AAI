@@ -2,7 +2,7 @@
 Evaluation of POCP VS AAI: This is a R script to parse all the results from EzAAI and Bio-PI POCP matrix into summary tables, analyze them and create some plots.
 
 ## Dependencies
-The script has been evaluated in R v.4.2.2. It has the following dependencies: 
+The script has been evaluated in R v.4.2.2. It has the following R dependencies: 
   * dplyr
   * tidyr
   * vioplot
